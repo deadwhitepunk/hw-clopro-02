@@ -10,7 +10,7 @@
 ---
 ## Задание 1. Yandex Cloud 
 
-ССЫЛКА НА ПРОЕКТ ТЕРРАФОРМ https://github.com/deadwhitepunk/hw-clopro-01/blob/main/terraform
+ССЫЛКА НА ПРОЕКТ ТЕРРАФОРМ https://github.com/deadwhitepunk/hw-clopro-02/blob/main/terraform
 
 **Что нужно сделать**
 
